@@ -108,32 +108,11 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 
 ---
 
-### 📞 Contact Management System
-- Developed an application to manage contacts with add, update, search, and delete functionality.
-- **Tech Stack:** Java
-- 🔗 GitHub: https://github.com/phanishree17/Contact-Management-System
-
----
-
-### 📂 File Organizer
-- Built a utility that automatically organizes files into folders based on file type.
+### 🔐 Login Authentication System
+- Developed a secure Login Authentication System with user registration and login functionality.
 - **Tech Stack:** Python
-- 🔗 GitHub: https://github.com/phanishree17/File-Organizer
-
+- 🔗 Project: https://github.com/phanishree17/phanishree17/blob/main/login_app%20(2).zip
 ---
-
-### 🔍 Mini Search Engine
-- Developed a simple search engine using indexing and searching concepts.
-- **Tech Stack:** Java
-- 🔗 GitHub: https://github.com/phanishree17/Mini-Search-Engine
-
----
-
-### 🧩 Maze Solver
-- Implemented a maze-solving application using graph traversal algorithms.
-- **Tech Stack:** Java
-- 🔗 GitHub: https://github.com/phanishree17/Maze-Solver
-
 - ## 🏆 Certifications
 
 - 🏅 **[The Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/certificate/UC-d360fb9d-160b-4a93-940c-f635fde2ce60/)** – Udemy
