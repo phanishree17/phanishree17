@@ -34,6 +34,18 @@ I am passionate about building scalable web applications and continuously improv
 - 🐧 Linux
 - 🌐 Computer Networks
 
+- ## 🏆 Certifications
+
+- 🏅 **[The Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/certificate/UC-d360fb9d-160b-4a93-940c-f635fde2ce60/)** – Udemy
+
+- 🏅 **[Linux Command Line Basics](https://www.udemy.com/certificate/UC-d8abffb1-4916-4b88-b9b9-86263355699c/)** – Udemy
+
+- 🏅 **Python Full Stack Development** – QSpiders, Bengaluru
+
+- 🏅 **Java Programming Internship** – ATEU Software
+
+- 🏅 **Python Internship** – RankBook
+
 ## 🌱 Currently Learning
 
 - Advanced Django & REST APIs
