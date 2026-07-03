@@ -89,7 +89,7 @@ I am passionate about building scalable web applications and continuously improv
 ### 💳 ATM Management System
 - Developed a console-based ATM application supporting deposit, withdrawal, balance inquiry, and PIN verification.
 - **Tech Stack:** Java
-- 🔗 GitHub: https://github.com/phanishree17/ATM-System
+- 🔗 GitHub: https://github.com/phanishree17/phanishree17/blob/main/Atmpro1.java
 
 ---
 
