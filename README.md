@@ -23,16 +23,43 @@ I am passionate about building scalable web applications and continuously improv
 
 - **Bachelor of Computer Applications (BCA)**
 
-## 🚀 Technical Interests
+## 🛠️ Technical Skills
 
+### 👨‍💻 Programming Languages
 - 🐍 Python
 - ☕ Java
-- 🌐 Full Stack Development
-- 🚀 Django & Django REST Framework (DRF)
-- 💾 SQL & Database Management
-- 🧩 Data Structures & Algorithms (DSA)
-- 🐧 Linux
-- 🌐 Computer Networks
+- 💾 SQL
+- 🌐 HTML, CSS, JavaScript
+
+### 🚀 Frameworks & Technologies
+- Django
+- Django REST Framework (DRF)
+- Bootstrap
+- REST APIs
+
+### 🤖 AI & Emerging Technologies
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Generative AI
+- Agentic AI
+- Prompt Engineering
+- AI Tools (ChatGPT, GitHub Copilot)
+
+### 🗄️ Databases
+- MySQL
+- SQLite
+
+### 💻 Operating Systems & Tools
+- Linux
+- Git & GitHub
+- VS Code
+
+### 🌐 Computer Science Fundamentals
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Computer Networks
+- DBMS
+- Operating Systems
 
 - ## 🏆 Certifications
 
