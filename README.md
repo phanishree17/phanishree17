@@ -93,10 +93,11 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 
 - ----
 
-### 📝 Online Examination System
-- Built an online exam platform with login, quiz management, and score calculation.
-- **Tech Stack:** Java, MySQL
-- 🔗 GitHub: https://github.com/phanishree17/Online-Examination-System
+
+- ### 📝 Online Examination System
+- Developed an Online Examination System with user login, exam management, and score evaluation.
+- **Tech Stack:** Java , MySQL
+- 🔗 Project: https://github.com/phanishree17/phanishree17/blob/main/OnlineExam.java
 
 ---
 
