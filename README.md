@@ -61,6 +61,64 @@ I am passionate about building scalable web applications and continuously improv
 - DBMS
 - Operating Systems
 
+- ## 🚀 Featured Projects
+
+### 🤖 AI Resume Builder
+- Developed an AI-powered Resume Builder using Python and Django.
+- Generates professional resumes with an ATS-friendly format.
+- **Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite
+- 🔗 GitHub: https://github.com/phanishree17/AI-Resume-Builder
+
+---
+
+### 📚 Library Management System
+- Developed a Library Management System to manage books, members, and transactions.
+- Implemented CRUD operations with a user-friendly interface.
+- **Tech Stack:** Java, MySQL
+- 🔗 GitHub: https://github.com/phanishree17/Library-Management-System
+
+---
+
+### 📝 Online Examination System
+- Built an online exam platform with login, quiz management, and score calculation.
+- **Tech Stack:** Java, MySQL
+- 🔗 GitHub: https://github.com/phanishree17/Online-Examination-System
+
+---
+
+### 💳 ATM Management System
+- Developed a console-based ATM application supporting deposit, withdrawal, balance inquiry, and PIN verification.
+- **Tech Stack:** Java
+- 🔗 GitHub: https://github.com/phanishree17/ATM-System
+
+---
+
+### 📞 Contact Management System
+- Developed an application to manage contacts with add, update, search, and delete functionality.
+- **Tech Stack:** Java
+- 🔗 GitHub: https://github.com/phanishree17/Contact-Management-System
+
+---
+
+### 📂 File Organizer
+- Built a utility that automatically organizes files into folders based on file type.
+- **Tech Stack:** Python
+- 🔗 GitHub: https://github.com/phanishree17/File-Organizer
+
+---
+
+### 🔍 Mini Search Engine
+- Developed a simple search engine using indexing and searching concepts.
+- **Tech Stack:** Java
+- 🔗 GitHub: https://github.com/phanishree17/Mini-Search-Engine
+
+---
+
+### 🧩 Maze Solver
+- Implemented a maze-solving application using graph traversal algorithms.
+- **Tech Stack:** Java
+- 🔗 GitHub: https://github.com/phanishree17/Maze-Solver
+
 - ## 🏆 Certifications
 
 - 🏅 **[The Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/certificate/UC-d360fb9d-160b-4a93-940c-f635fde2ce60/)** – Udemy
