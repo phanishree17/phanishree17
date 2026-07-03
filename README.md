@@ -63,6 +63,40 @@ I am passionate about building scalable web applications and continuously improv
 
 - ## 🚀 Featured Projects
 
+  
+- ### 🚀 Advanced Task Manager
+
+A comprehensive task management web application designed to help users efficiently organize, track, and manage daily tasks through an intuitive and user-friendly interface.
+
+**✨ Key Features**
+- 👤 User Registration & Secure Login Authentication
+- ➕ Create, Update, Delete, and Manage Tasks (CRUD)
+- 📌 Task Prioritization and Status Tracking
+- 📅 Due Date Management
+- 🔍 Search and Filter Tasks
+- 📊 Responsive Dashboard for Better Productivity
+- 🔒 Secure User-Specific Task Management
+
+**🛠️ Tech Stack**
+- Python
+- Django
+- HTML5
+- CSS3
+- Bootstrap
+- SQLite
+
+**🎯 Learning Outcomes**
+- Built a complete Django CRUD application.
+- Implemented authentication and user authorization.
+- Applied Django Models, Views, Templates (MVT Architecture).
+- Integrated database operations using SQLite.
+- Improved backend development and web application design skills.
+
+🔗 **GitHub Repository:**  
+https://github.com/phanishree17/Advanced_Task_Manager
+
+-----------
+
 ### 💍 Wedding Management System
 
 A web-based Wedding Management System that helps users manage wedding events, bookings, customers, and services through an interactive interface.
