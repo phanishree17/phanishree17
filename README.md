@@ -63,6 +63,29 @@ I am passionate about building scalable web applications and continuously improv
 
 - ## 🚀 Featured Projects
 
+### 💍 Wedding Management System
+
+A web-based Wedding Management System that helps users manage wedding events, bookings, customers, and services through an interactive interface.
+
+**✨ Features**
+- User Registration & Login
+- Wedding Package Management
+- Booking Management
+- Customer Management
+- Admin Dashboard
+- Responsive Web Design
+
+**🛠️ Tech Stack**
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+**🔗 GitHub Repository**
+- https://github.com/phanishree17/pythoncod/blob/main/Wedding-Management-PHP.zip
+
 ### 🤖 AI Resume Builder
 - Developed an AI-powered Resume Builder using Python and Django.
 - Generates professional resumes with an ATS-friendly format.
