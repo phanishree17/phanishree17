@@ -86,21 +86,12 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 **🔗 GitHub Repository**
 - https://github.com/phanishree17/pythoncod/blob/main/Wedding-Management-PHP.zip
 
-### 🤖 AI Resume Builder
-- Developed an AI-powered Resume Builder using Python and Django.
-- Generates professional resumes with an ATS-friendly format.
-- **Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite
-- 🔗 GitHub: https://github.com/phanishree17/AI-Resume-Builder
+- ### 🎓 Student Management System
+- Developed a Student Management System to manage student records, attendance, and academic information.
+- **Tech Stack:** Python
+- 🔗 Project: https://github.com/phanishree17/phanishree17/blob/main/student_management.zip
 
----
-
-### 📚 Library Management System
-- Developed a Library Management System to manage books, members, and transactions.
-- Implemented CRUD operations with a user-friendly interface.
-- **Tech Stack:** Java, MySQL
-- 🔗 GitHub: https://github.com/phanishree17/Library-Management-System
-
----
+- ----
 
 ### 📝 Online Examination System
 - Built an online exam platform with login, quiz management, and score calculation.
