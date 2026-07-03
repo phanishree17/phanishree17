@@ -85,6 +85,8 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 
 **🔗 GitHub Repository**
 - https://github.com/phanishree17/pythoncod/blob/main/Wedding-Management-PHP.zip
+- 
+- ---
 
 - ### 🎓 Student Management System
 - Developed a Student Management System to manage student records, attendance, and academic information.
@@ -113,6 +115,11 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 - **Tech Stack:** Python
 - 🔗 Project: https://github.com/phanishree17/phanishree17/blob/main/login_app%20(2).zip
 ---
+### ✅ To-Do List Web Application
+- Developed a To-Do List web application to create, update, and manage daily tasks.
+- **Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite
+- 🔗 Project: https://github.com/phanishree17/phanishree17/blob/main/todoproject.django.zip
+- ----
 - ## 🏆 Certifications
 
 - 🏅 **[The Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/certificate/UC-d360fb9d-160b-4a93-940c-f635fde2ce60/)** – Udemy
@@ -124,6 +131,7 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 - 🏅 **Java Programming Internship** – ATEU Software
 
 - 🏅 **Python Internship** – RankBook
+- ----
 
 ## 🌱 Currently Learning
 
@@ -131,6 +139,7 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 - System Design Fundamentals
 - Backend Development Best Practices
 - AI & Generative AI Fundamentals
+- -----
 
 ## 🎯 Career Objective
 
