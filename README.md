@@ -119,7 +119,6 @@ A web-based Wedding Management System that helps users manage wedding events, bo
 
 **🔗 GitHub Repository**
 - https://github.com/phanishree17/pythoncod/blob/main/Wedding-Management-PHP.zip
-- 
 - ---
 
 - ### 🎓 Student Management System
