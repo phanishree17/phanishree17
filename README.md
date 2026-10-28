@@ -1,6 +1,7 @@
 # 💫 About Me
 
 👋 Hi, I'm **Phanishree N.M.**
+----------------------------------------
 
 🎓 **BCA Graduate (Full-Time) | MCA (Pursuing – Distance Education), IGNOU**
 --------------------------------------------------------------------------------------------
@@ -62,9 +63,8 @@ I am passionate about building scalable web applications and continuously improv
 - DBMS
 - Operating Systems
 
-- ## 🚀 Featured Projects
-
-  
+- ## 🚀 ACADEMIC & PERSONAL PROJECTS
+- ------
 - ### 🚀 Advanced Task Manager
 
 A comprehensive task management web application designed to help users efficiently organize, track, and manage daily tasks through an intuitive and user-friendly interface.
