@@ -3,6 +3,7 @@
 👋 Hi, I'm **Phanishree N.M.**
 
 🎓 **BCA Graduate (Full-Time) | MCA (Pursuing – Distance Education), IGNOU**
+--------------------------------------------------------------------------------------------
 💻 **Aspiring Software Developer | Python Full Stack Developer**
 
 I am passionate about building scalable web applications and continuously improving my programming, problem-solving, and software development skills. I enjoy learning new technologies and applying them to develop real-world projects.
